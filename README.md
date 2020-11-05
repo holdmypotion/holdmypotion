@@ -16,7 +16,7 @@
 </a>
 
 <br />
-
+<br />
 Hi, I'm [Rahul Sharma](https://holdmypotion.tech/), a Full Stack Developer 🚀. Currently, I'm a Lead Developer at  🙍🏽‍♂️ [@Bespoke IInc](https://www.gobespoke.ca/), and a college student.
   <img align="right" alt="GIF" src="https://github.com/holdmypotion/holdmypotion/blob/main/code.gif?raw=true" width="500" height="320" />
   
