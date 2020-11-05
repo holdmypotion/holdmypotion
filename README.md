@@ -17,14 +17,14 @@
 
 <br />
 <br />
-Hi, I'm [Rahul Sharma](https://holdmypotion.tech/), a Full Stack Developer 🚀. Currently, I'm a Lead Developer at  🙍🏽‍♂️ [@Bespoke IInc](https://www.gobespoke.ca/), and a college student.
+
+Hi, I'm <a href="https://holdmypotion.tech/">Rahul</a>, a Full Stack Developer 🚀. Currently, I'm a Lead Developer at  🙍🏽‍♂️ [@Bespoke IInc](https://www.gobespoke.ca/), and a college student.
   <img align="right" alt="GIF" src="https://github.com/holdmypotion/holdmypotion/blob/main/code.gif?raw=true" width="500" height="320" />
   
-- 👨🏽‍💻 I’m currently working developing web :wink:;
-- 🌱 And learning firebase and graphQL for two upcoming project 
+- 👨🏽‍💻 I’m currently working developing web;
+- 🌱 And learning firebase and graphQL for two upcoming project;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/holdmypotionn);
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+- 📫 How to reach me: [@holdmypotion](https://twitter.com/holdmypotionn);
 
 **Languages and Tools:**  
 
