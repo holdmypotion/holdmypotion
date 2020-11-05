@@ -21,10 +21,11 @@
 Hi, I'm <a href="https://holdmypotion.tech/">Rahul</a>, a Full Stack Developer 🚀. Currently, I'm a Lead Developer at  🙍🏽‍♂️ [@Bespoke IInc](https://www.gobespoke.ca/), and a college student.
   <img align="right" alt="GIF" src="https://github.com/holdmypotion/holdmypotion/blob/main/code.gif?raw=true" width="500" height="320" />
   
-- 👨🏽‍💻 I’m currently working developing web;
+- 👨🏽‍💻 I’m currently developing web;
 - 🌱 And learning firebase and graphQL for two upcoming project;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@holdmypotion](https://twitter.com/holdmypotionn);
+- 📫 Reach me on twitter: [@holdmypotion](https://twitter.com/holdmypotionn);
+- 📫 Or email: <a href="mailto:holdmypotion@gmail.com">holdmypotion</a>
 
 **Languages and Tools:**  
 
