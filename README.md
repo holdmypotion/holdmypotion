@@ -43,9 +43,9 @@ Hi, I'm <a href="https://holdmypotion.tech/">Rahul</a>, a Full Stack Developer �
 ## 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React Native: Responsive and Adaptive User Interfaces](https://holdmypotion.tech/react-native-responsive-and-adaptive-user-interfaces/)
+- [React Native 101](https://holdmypotion.tech/react-native-101/)
+- [Using React Context API Like a Pro](https://holdmypotion.tech/using-react-context-api-like-a-pro/)
 - [EM v/s REM](https://holdmypotion.tech/em-v-s-rem/)
 - [React Hooks Demystified](https://holdmypotion.tech/react-hooks-demystified/)
-- [4 Things beginner Figma users do not know](https://holdmypotion.tech/4-things-beginner-figma-users-do-not-know/)
-- [Implement Search Bar in React for Ecommerce Website](https://holdmypotion.tech/implement-search-bar-in-react-for-ecommerce-website/)
-- [Never Split The Difference – Chris Voss | Notes and Summary](https://holdmypotion.tech/never-split-the-difference/)
 <!-- BLOG-POST-LIST:END -->
