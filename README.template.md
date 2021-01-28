@@ -1,4 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <a href="https://twitter.com/holdmypotionn">
   <img align="left" alt="Rahul Sharma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -18,16 +19,16 @@
 <br />
 <br />
 
-Hi, I'm <a href="https://holdmypotion.tech/">Rahul</a>, a Full Stack Developer 🚀. Currently, I'm a Lead Developer at  🙍🏽‍♂️ [@Bespoke IInc](https://www.gobespoke.ca/), and a college student.
-  <img align="right" alt="GIF" src="https://github.com/holdmypotion/holdmypotion/blob/main/code.gif?raw=true" width="500" height="320" />
-  
+Hi, I'm <a href="https://holdmypotion.tech/">Rahul</a>, a Full Stack Developer 🚀. Currently, I'm a Lead Developer at 🙍🏽‍♂️ [@Bespoke IInc](https://www.gobespoke.ca/), and a college student.
+<img align="right" alt="GIF" src="https://github.com/holdmypotion/holdmypotion/blob/main/code.gif?raw=true" width="500" height="320" />
+
 - 👨🏽‍💻 I’m currently developing web;
 - 🌱 And learning firebase and graphQL for two upcoming project;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Reach me on twitter: [@holdmypotion](https://twitter.com/holdmypotionn);
 - 📫 Or email: <a href="mailto:holdmypotion@gmail.com">holdmypotion</a>
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -38,7 +39,3 @@ Hi, I'm <a href="https://holdmypotion.tech/">Rahul</a>, a Full Stack Developer �
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-## 📩 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
