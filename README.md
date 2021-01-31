@@ -43,9 +43,9 @@ Hi, I'm <a href="https://holdmypotion.tech/">Rahul</a>, a Full Stack Developer ð
 ## ðŸ“© Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React Theme Switcher](https://holdmypotion.tech/react-theme-switcher/)
 - [React Native: Responsive and Adaptive User Interfaces](https://holdmypotion.tech/react-native-responsive-and-adaptive-user-interfaces/)
 - [React Native 101](https://holdmypotion.tech/react-native-101/)
 - [Using React Context API Like a Pro](https://holdmypotion.tech/using-react-context-api-like-a-pro/)
 - [EM v/s REM](https://holdmypotion.tech/em-v-s-rem/)
-- [React Hooks Demystified](https://holdmypotion.tech/react-hooks-demystified/)
 <!-- BLOG-POST-LIST:END -->
