@@ -43,9 +43,9 @@ Hi, I'm <a href="https://holdmypotion.tech/">Rahul</a>, a Full Stack Developer ð
 ## ðŸ“© Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React: Custom Cursor (No Extra dependencies!)](https://holdmypotion.tech/react-custom-cursor-no-extra-dependencies/?utm_source=rss&utm_medium=rss&utm_campaign=react-custom-cursor-no-extra-dependencies)
 - [React: Super Simple Smooth Scrolling](https://holdmypotion.tech/react-super-simple-smooth-scrolling/?utm_source=rss&utm_medium=rss&utm_campaign=react-super-simple-smooth-scrolling)
 - [React 3D Image Slider](https://holdmypotion.tech/react-3d-image-slider/?utm_source=rss&utm_medium=rss&utm_campaign=react-3d-image-slider)
 - [React Theme Switcher](https://holdmypotion.tech/react-theme-switcher/?utm_source=rss&utm_medium=rss&utm_campaign=react-theme-switcher)
 - [React Native: Responsive and Adaptive User Interfaces](https://holdmypotion.tech/react-native-responsive-and-adaptive-user-interfaces/?utm_source=rss&utm_medium=rss&utm_campaign=react-native-responsive-and-adaptive-user-interfaces)
-- [React Native 101](https://holdmypotion.tech/react-native-101/?utm_source=rss&utm_medium=rss&utm_campaign=react-native-101)
 <!-- BLOG-POST-LIST:END -->
