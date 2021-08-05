@@ -23,7 +23,7 @@ Hi, I'm <a href="https://holdmypotion.tech/">Rahul</a>, a Full Stack Developer �
 <img align="right" alt="GIF" src="https://github.com/holdmypotion/holdmypotion/blob/main/code.gif?raw=true" width="500" height="320" />
 
 - 👨🏽‍💻 I’m currently developing web;
-- 🌱 And learning firebase and graphQL for two upcoming project;
+<!-- - 🌱 And learning firebase and graphQL for two upcoming project; -->
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Reach me on twitter: [@holdmypotion](https://twitter.com/holdmypotionn);
 - 📫 Or email: <a href="mailto:holdmypotion@gmail.com">holdmypotion</a>
