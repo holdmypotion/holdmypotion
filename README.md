@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi, I'm <a href="https://holdmypotion.tech/">Rahul</a>, a Full Stack Developer 🚀. Currently, I'm a Lead Developer at 🙍🏽‍♂️ [@Bespoke IInc](https://www.gobespoke.ca/), and a college student.
+Hi, I'm <a href="https://holdmypotion.tech/">Rahul</a>, a Full Stack Developer 🚀.
 <img align="right" alt="GIF" src="https://github.com/holdmypotion/holdmypotion/blob/main/code.gif?raw=true" width="500" height="320" />
 
 - 👨🏽‍💻 I’m currently developing web;
