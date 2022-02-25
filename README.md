@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi, I'm <a href="https://holdmypotion.tech/">Rahul</a>, a Full Stack Developer 🚀.
+Hi, I'm <a href="https://rahsand.tech/">Rahul</a>, a Full Stack Developer 🚀.
 <img align="right" alt="GIF" src="https://github.com/holdmypotion/holdmypotion/blob/main/code.gif?raw=true" width="500" height="320" />
 
 - 👨🏽‍💻 I’m currently developing web;
