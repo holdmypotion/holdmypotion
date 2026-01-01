@@ -1,7 +1,7 @@
-### Hey there! 👋 I'm Rahul Sharma
+# Rahul Sharma
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Software+Engineer+%40+Scaler;Backend+%26+Infrastructure+Enthusiast;AI%2FML+Platform+Architect;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Software+Engineer+%40+Google;Backend+%26+Infrastructure+Enthusiast;Data+Pipeline+Architect;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,79 +21,104 @@
 
 ---
 
-<img align="right" alt="Coding GIF" src="https://github.com/holdmypotion/holdmypotion/blob/main/code.gif?raw=true" width="400" height="300" />
+Software Development Engineer II @ Google  
+Backend · Distributed Systems · System Design
 
-## 🚀 About Me
-
-**Software Engineer II @ Scaler/Interviewbit** who loves designing systems and building reliable infrastructure.
-
-- 🔧 I do most of my work in **Neovim** and enjoy keeping things minimal and efficient
-- 🎯 Currently architecting **multi-tenant orchestration platforms** processing 1 lakh+ monthly calls
-- 🤖 Building **AI-powered tools** and **ML-driven systems** that boost conversions and save costs
-- 💡 Passionate about **backend architecture**, **distributed systems**, and **infrastructure**
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### Databases & Tools
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-
-## 🎯 Current Work Highlights
-
-- **DaddyQuest**: Multi-tenant orchestration platform for automated call/meeting analysis
-- **Mimir**: CRM x Redshift ETL Pipeline saving $440/month vs external solutions
-- **Sail Extension**: AI-powered real-time call transcription improving conversions by 10%
-- **Lead Ranking System**: ML-driven system boosting conversion by 2% (~70L extra revenue)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Docker: Why and How to get started with Docker](https://holdmypotion.tech/blog/docker-why-and-how-to-get-started-with-docker)
-- [React: Scroll Transition for Fancy Portfolios](https://holdmypotion.tech/blog/react-scroll-transition-for-fancy-portfolios)
-- [React: Tag Text Search](https://holdmypotion.tech/blog/react-tag-text-search)
-- [React: Marquee using Framer Motion](https://holdmypotion.tech/blog/react-marquee-using-framer-motion)
-- [React: Custom Cursor (No Extra dependencies!)](https://holdmypotion.tech/blog/react-custom-cursor-no-extra-dependencies)
-<!-- BLOG-POST-LIST:END -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=holdmypotion&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holdmypotion&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-## 🤝 Let's Connect!
-
-💬 **Ask me about:** System Design, Backend Architecture, AI/ML Integration, or anything tech!  
-📧 **Email:** holdmypotion@gmail.com  
-🌐 **Portfolio:** [holdmypotion.tech](https://holdmypotion.tech)  
-📱 **Social:** [@holdmypotion](https://twitter.com/holdmypotionn)
+🌐 https://www.holdmypotion.com  
+✍️ Blog: https://www.holdmypotion.com/blog  
+🧠 System Design: https://www.holdmypotion.com/systems-design  
+📧 holdmypotion@gmail.com  
+💼 https://www.linkedin.com/in/holdmypotion/
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=holdmypotion&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
+## About
+
+I’m a backend-focused software engineer working on large-scale, production systems.  
+I enjoy designing reliable architectures, debugging hard production issues, and turning ambiguous problems into simple, scalable systems.
+
+My interests sit at the intersection of:
+- Distributed systems
+- Backend & infrastructure engineering
+- Data pipelines and stateful services
+- Practical AI/ML integration in production systems
+
+I write system design case studies and engineering deep dives to document real-world tradeoffs.
+
+---
+
+## Experience
+
+### Software Development Engineer II  
+**Google** — *Nov 2025 – Present*  
+Geo Developer
+
+---
+
+### Software Development Engineer II  
+**HackerRank** — *Aug 2025 – Nov 2025*
+
+- Enhanced the mock interview platform by implementing editorial and test case injection using RAG, improving the candidate experience.
+- Developed backend systems for HackerRank Next (now HackerRank Learn).
+- Resolved MessageHistory bugs, leading to an increase in the Developer Love Index (DLI).
+
+---
+
+### Software Development Engineer II  
+**Scaler / InterviewBit** — *Jul 2022 – Jul 2025*
+
+- Architected **DaddyQuest**, a multi-tenant orchestration platform for automated call and meeting analysis, processing 1 lakh+ monthly calls.
+- Built **Mimir**, a CRM × Redshift ETL pipeline, saving ~$440/month by replacing third-party tooling.
+- Led a security initiative migrating production RDS from unencrypted to encrypted storage at rest.
+- Developed **Sail Extension**, an AI-powered real-time call transcription system, improving conversion by 10%.
+- Implemented an ML-based lead ranking system, improving conversion by 2% and adding ₹70L in revenue.
+- Designed and implemented **Sail Quest API**, a Python gRPC microservice with a Ruby client gem, replacing a legacy S3-based architecture.
+
+---
+
+## System Design Case Studies
+
+I publish detailed system design walkthroughs focused on constraints, failure modes, and scaling decisions:
+
+- Job Scheduler  
+  https://www.holdmypotion.com/systems-design/job-scheduler
+
+- Distributed Cache  
+  https://www.holdmypotion.com/systems-design/distributed-cache
+
+- Google Docs (Collaborative Editing)  
+  https://www.holdmypotion.com/systems-design/google-docs
+
+- Payment System  
+  https://www.holdmypotion.com/systems-design/payment-system
+
+---
+
+## Writing
+
+Selected topics I write about:
+- Backend architecture and scaling
+- Kafka, databases, and infra tradeoffs
+- Security, migrations, and reliability
+- System design interviews vs real systems
+
+All posts: https://www.holdmypotion.com/blog
+
+---
+
+## Tech I Work With
+
+Python · Go · Ruby · TypeScript  
+gRPC · REST · Kafka  
+MySQL · PostgreSQL · Redis · Elasticsearch  
+AWS · Docker · Terraform  
+
+---
+
+## Contact
+
+If you want to discuss system design, backend engineering, or real-world scaling problems:
+
+- Website: https://www.holdmypotion.com
+- Email: holdmypotion@gmail.com
+- LinkedIn: https://www.linkedin.com/in/holdmypotion/
